@@ -56,10 +56,10 @@
 
 <h3 align="left"> CONTACT ME</h3>
 <a href="https://www.linkedin.com/in/vir3/" target="_blank">
-  <img src=" <img src="img/linkedin.svg" alt="agile" width="50"height="40" />
+  <img src="img/linkedin.svg" alt="agile" width="50"height="50" />
 </a> 
 <a href="mailto:qaops21@gmail.com">
-  <img src=" <img src="img/gmail.svg" alt="agile" width="50"height="40" />
+  <img src="img/gmail.svg" alt="agile" width="40"height="50" />
 </a>
 </br>
 <p>
