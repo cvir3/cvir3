@@ -1,5 +1,5 @@
 <a href="https://www.github.com/cvir3" target="_blank" rel="noreferrer">
-<p><img align="left" src="img/vir2.png" alt="logo" width="100"height="100"/> </p></a>
+<p><img align="right" src="img/vir2.png" alt="logo" width="100"height="100"/> </p></a>
 </br></br>
 <h1 align="center">Hi 👋🏻, I'm <a href="https://www.github.com/cvir3">Viren</a> Chauhan</h1>
   
