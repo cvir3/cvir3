@@ -1,9 +1,9 @@
 <a href="https://www.github.com/cvir3" target="_blank" rel="noreferrer">
 <p><img align="left" src="img/vir2.png" alt="logo" width="100"height="100"/> </p></a>
-
+</br></br>
 <h1 align="center">Hi 👋🏻, I'm <a href="https://www.github.com/cvir3">Viren</a> Chauhan</h1>
-  </br>
-<h3 align="center">Automation enthusiasts with over 4.5 years of extensive experience as a Software Automation Engineer. Specializes in Web and Mobile automation, proficient in Java, C#, Selenium WebDriver, and Appium. Strong at designing and developing automation frameworks.</h3>
+  
+<h3 align="center">Automation enthusiasts with over 5 years of extensive experience as a Software Automation Engineer. Specializes in Web and Mobile automation, proficient in Java, C#, Selenium WebDriver, and Appium. Strong at designing and developing automation frameworks.</h3>
 
 <p align="center">
   <a href="https://github.com/cvir3">
@@ -16,10 +16,8 @@
 <h3 align="left">DOMAIN EXPERIENCE</h3>
 
 - Health Care
-
 - Cab booking service
 - E-Commerce
-
 - Escrow Management With Crypto Currency
 
 <h3 align="left">LANGUAGES</h3>
