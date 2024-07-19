@@ -1,7 +1,7 @@
 <a href="https://www.github.com/cvir3" target="_blank" rel="noreferrer">
 <p><img align="right" src="img/vir2.png" alt="logo" width="100"height="100"/> </p></a>
 </br></br>
-<h1 align="center">Hi 👋🏻, I'm <a href="https://www.github.com/cvir3">Viren</a> Chauhan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" />, I'm <a href="https://www.github.com/cvir3">Viren</a> Chauhan</h1>
   
 <h3 align="center">Automation enthusiasts with over 5 years of extensive experience as a Software Automation Engineer. Specializes in Web and Mobile automation, proficient in Java, C#, Selenium WebDriver, and Appium. Strong at designing and developing automation frameworks.</h3>
 
